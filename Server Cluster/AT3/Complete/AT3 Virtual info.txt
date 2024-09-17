@@ -1,0 +1,16 @@
+Firewall
+anz-fw-01	172.16.0.254
+
+green(int)	00:50:56:29:D6:51
+red(ext)	00:50:56:2A:CD:B3
+
+Servers
+Windows 22
+anz-dc-01	172.16.0.1
+anz-fs-01	172.16.0.2
+Linux
+anzac-lin-01	172.16.0.4
+Clients
+Win 10
+anzac-ws-01	172.16.0.10
+

@@ -1,0 +1,56 @@
+Users count: 28 total
+Office OPs x11
+IT x3
+Ground OPs x14
+
+User groups:
+grpAdminOffice
+Wei Desjardins
+Frank Duguay
+Déborah Richer
+Tom Michaud
+Randy Langlois
+
+grpReception
+Stacey Leclerc
+Jules Fox
+
+grpHR
+Andre Erickson
+
+grpIT
+David Edwards
+Gabriel Maltais
+Sherry Wilkinson
+
+grpWHS
+Patty Berg
+
+grpExecutive
+Sharon Tate
+Winnie McCormick
+
+grpSecurity
+Carla Morris
+Linda Auclair
+Jim Rodriguez
+Gayle Nadeau
+Cody Boulet
+Charmaine Beck
+Carolyn Labrie
+
+grpBaggage
+Bruno Gillis
+Stephan Power
+Huguette Booth
+Terry McLaughlin
+Arnold Wells
+Tommy Keller
+Jean-Marc Provencher
+
+grpManagers Duel Group Holders
+David Edwards
+Randy Langlois
+Carolyn Labrie
+Jean-Marc Provencher
+

@@ -1,0 +1,27 @@
+FirstName,LastName,UserName,Password,OU,UserGroup
+Wei,Desjardins,wei.desjardins,Hello@123,"OU=ouOfficeOps,DC=jamesanzac,DC=com",grpAdminOffice
+Frank,Duguay,frank.duguay,Hello@123,"OU=ouOfficeOps,DC=jamesanzac,DC=com",grpAdminOffice
+Deborah,Richer,deborah.richer,Hello@123,"OU=ouOfficeOps,DC=jamesanzac,DC=com",grpAdminOffice
+Tom,Michaud,tom.michaud,Hello@123,"OU=ouOfficeOps,DC=jamesanzac,DC=com",grpAdminOffice
+Randy,Langlois,randy.langlois,Hello@123,"OU=ouOfficeOps,DC=jamesanzac,DC=com",grpAdminOffice
+Stacey,Leclerc,stacey.leclerc,Hello@123,"OU=ouOfficeOps,DC=jamesanzac,DC=com",grpReception
+Jules,Fox,jules.fox,Hello@123,"OU=ouOfficeOps,DC=jamesanzac,DC=com",grpReception
+Andre, Erickson,andre.erickson,Hello@123,"OU=ouOfficeOps,DC=jamesanzac,DC=com",grpHR
+Gabriel,Maltais,gabriel.maltais,Hello@123,"OU=ouIT,DC=jamesanzac,DC=com",grpIT
+Sherry,Wilkinson,sherry.wilkinson,Hello@123,"OU=ouIT,DC=jamesanzac,DC=com",grpIT
+Patty,Berg,patty.berg,Hello@123,"OU=ouOfficeOps,DC=jamesanzac,DC=com",grpWHS
+Winnie,McCormick,winnie.mccormick,Hello@123,"OU=ouOfficeOps,DC=jamesanzac,DC=com",grpExecutive
+Carla,Morris,carla.morris,Hello@123,"OU=ouGroundOps,DC=jamesanzac,DC=com",grpSecurity
+Linda,Auclair,linda.auclair,Hello@123,"OU=ouGroundOps,DC=jamesanzac,DC=com",grpSecurity
+Jim,Rodriguez,jim.rodriguez,Hello@123,"OU=ouGroundOps,DC=jamesanzac,DC=com",grpSecurity
+Gayle,Nadeau,gayle.nadeau,Hello@123,"OU=ouGroundOps,DC=jamesanzac,DC=com",grpSecurity
+Cody,Boulet,cody.boulet,Hello@123,"OU=ouGroundOps,DC=jamesanzac,DC=com",grpSecurity
+Charmaine,Beck,charmaine.beck,Hello@123,"OU=ouGroundOps,DC=jamesanzac,DC=com",grpSecurity
+Carolyn,Labrie,carolyn.labrie,Hello@123,"OU=ouGroundOps,DC=jamesanzac,DC=com",grpSecurity
+Bruno,Gillis,bruno.gillis,Hello@123,"OU=ouGroundOps,DC=jamesanzac,DC=com",grpBaggage
+Stephan,Power,stephan.power,Hello@123,"OU=ouGroundOps,DC=jamesanzac,DC=com",grpBaggage
+Huguette,Booth,huguette.booth,Hello@123,"OU=ouGroundOps,DC=jamesanzac,DC=com",grpBaggage
+Terry,McLaughlin,terry.mclaughlin,Hello@123,"OU=ouGroundOps,DC=jamesanzac,DC=com",grpBaggage
+Arnold,Wells,arnold.wells,Hello@123,"OU=ouGroundOps,DC=jamesanzac,DC=com",grpBaggage
+Tommy,Keller,tommy.keller,Hello@123,"OU=ouGroundOps,DC=jamesanzac,DC=com",grpBaggage
+Jean-Marc,Provencher,jeanmarc.provencher,Hello@123,"OU=ouGroundOps,DC=jamesanzac,DC=com",grpBaggage
